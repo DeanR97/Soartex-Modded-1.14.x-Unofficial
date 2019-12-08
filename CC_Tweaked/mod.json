@@ -1,0 +1,10 @@
+{
+  "mod_id": "cctweaked",
+  "mod_name": "CC: Tweaked",
+  "mod_dir": "/CC_Tweaked/",
+  "mod_version": "1.85.2",
+  "mc_version": "1.14.4",
+  "mod_authors": ["SquidDev", "DanTwoHundred"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/cc-tweaked",
+  "description": "CC: Tweaked is a fork of ComputerCraft, adding programmable computers, turtles and more to Minecraft."
+}

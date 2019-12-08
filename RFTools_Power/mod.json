@@ -1,0 +1,10 @@
+{
+  "mod_id": "rftoolsPower",
+  "mod_name": "RFTools Power",
+  "mod_dir": "/RFTools_Power/",
+  "mod_version": "1.2.11",
+  "mc_version": "1.14.4",
+  "mod_authors": ["McJty"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-power",
+  "description": "This mod is a RFTools addon which will in the future contain all power storage and power generator blocks from RFTools."
+}

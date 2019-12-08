@@ -1,0 +1,10 @@
+{
+  "mod_id": "refinedstorage",
+  "mod_name": "Refined Storage",
+  "mod_dir": "/Refined_Storage/",
+  "mod_version": "1.7.1",
+  "mc_version": "1.14.4",
+  "mod_authors": ["raoulvdberge", "theCyanideX", "way2muchnoise"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/refined-storage",
+  "description": "Refined Storage is a mass storage mod for Minecraft that offers the player a network-based storage system, allowing them to store items and fluids on a massively expandable device network."
+}

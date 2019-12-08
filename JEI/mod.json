@@ -1,0 +1,10 @@
+{
+  "mod_id": "JEI",
+  "mod_name": "JEI",
+  "mod_dir": "/JEI/",
+  "mod_version": "6.0.0.26",
+  "mc_version": "1.14.4",
+  "mod_authors": ["mezz"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/jei",
+  "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance."
+}

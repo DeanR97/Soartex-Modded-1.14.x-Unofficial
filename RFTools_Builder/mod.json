@@ -1,0 +1,10 @@
+{
+  "mod_id": "rftoolsBuilder",
+  "mod_name": "RFTools Builder",
+  "mod_dir": "/RFTools_Builder/",
+  "mod_version": "1.2.10",
+  "mc_version": "1.14.4",
+  "mod_authors": ["McJty"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-builder",
+  "description": "RFTools Builder is an addon for RFTools Base which adds the builder and all the shape cards."
+}

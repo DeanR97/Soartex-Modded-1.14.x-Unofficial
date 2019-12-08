@@ -1,0 +1,10 @@
+{
+  "mod_id": "openblockelevator",
+  "mod_name": "OpenBlocks Elevator",
+  "mod_dir": "/OpenBlocks_Elevator/",
+  "mod_version": "1.5.2",
+  "mc_version": "1.14.4",
+  "mod_authors": ["vsngarcia"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator",
+  "description": "Simple port of the elevator from OpenBlocks to 1.8+ FORGE"
+}

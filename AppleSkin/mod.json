@@ -1,0 +1,10 @@
+{
+  "mod_id": "AppleSkin",
+  "mod_name": "AppleSkin",
+  "mod_dir": "/AppleSkin/",
+  "mod_version": "1.0.13",
+  "mc_version": "1.14.4",
+  "mod_authors": ["squeek"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+  "description": "Adds various food-related HUD improvements"
+}

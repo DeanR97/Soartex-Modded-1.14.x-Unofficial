@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "quark:block/turf_slab" },
+        "type=top": { "model": "quark:block/turf_slab_top" },
+        "type=double": { "model": "quark:block/turf" }
+    }
+}

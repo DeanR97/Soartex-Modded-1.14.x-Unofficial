@@ -1,0 +1,10 @@
+{
+  "mod_id": "rftoolsStorage",
+  "mod_name": "RFTools Storage",
+  "mod_dir": "/RFTools_Storage/",
+  "mod_version": "0.0.6",
+  "mc_version": "1.14.4",
+  "mod_authors": ["McJty"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-storage",
+  "description": "RFTools Storage is an addon for RFTools Base which adds the storage system and everything related to that."
+}

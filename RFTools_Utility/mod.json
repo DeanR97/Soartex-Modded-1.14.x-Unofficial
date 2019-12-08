@@ -1,0 +1,10 @@
+{
+  "mod_id": "rftoolsUtility",
+  "mod_name": "RFTools Utility",
+  "mod_dir": "/RFTools_Utility/",
+  "mod_version": "1.2.12",
+  "mc_version": "1.14.4",
+  "mod_authors": ["McJty"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-utility",
+  "description": "RFTools Utility is the 1.14 version of the original RFTools with tons of general tools and utilities."
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "shulkertooltip",
+  "mod_name": "Shulker Tooltip",
+  "mod_dir": "/Shulker_Tooltip/",
+  "mod_version": "1.9",
+  "mc_version": "1.14.4",
+  "mod_authors": ["ZephaniahNoah"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip",
+  "description": "Have you ever wanted to see what's in a shulkerbox without placing it down to open it? With Shulker Tooltip you can! Move your cursor over a shulkerbox to see what's inside!"
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "rftoolsBase",
+  "mod_name": "RFTools Base",
+  "mod_dir": "/RFTools_Base/",
+  "mod_version": "0.0.11",
+  "mc_version": "1.14.4",
+  "mod_authors": ["McJty"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-base",
+  "description": "RFTools Base is the base mod for all tech mods by McJty. This includes RFTools Dimensions, RFTools Control, RFTools Power, Deep Resonance, XNet, and so on."
+}

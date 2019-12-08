@@ -1,0 +1,10 @@
+{
+  "mod_id": "voxelmap",
+  "mod_name": "Voxelmap",
+  "mod_dir": "/Voxelmap/",
+  "mod_version": "1.9.13",
+  "mc_version": "1.14.4",
+  "mod_authors": ["MamiyaOtaru"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/voxelmap",
+  "description": "VoxelMap is a minimap and worldmap mod that makes a great effort to be accurate to the colors you see in the world. "
+}
