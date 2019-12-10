@@ -1,0 +1,10 @@
+{
+  "mod_id": "DwarfCoal",
+  "mod_name": "Dwarf Coal",
+  "mod_dir": "/Dwarf_Coal/",
+  "mod_version": "1.0.0",
+  "mc_version": "1.14.4",
+  "mod_authors": ["Radient_Sora"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/dwarf-coal",
+  "description": "A Mod that adds small one time use coal/charcoal and brings the ole faithful Charcoal Block and Dwarf Torches the Lil brother of the Torch."
+}
