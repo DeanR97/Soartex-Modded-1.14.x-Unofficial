@@ -1,0 +1,10 @@
+{
+  "mod_id": "SilentMechanisms",
+  "mod_name": "Silent Mechanisms",
+  "mod_dir": "/Silent_Mechanisms/",
+  "mod_version": "0.6.9",
+  "mc_version": "1.14.4",
+  "mod_authors": ["SilentChaos512"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms",
+  "description": "This mod adds a few simple, common machines, with complete recipe systems."
+}
