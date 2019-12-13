@@ -1,5 +1,6 @@
 # Soartex Modded Textures 1.14.x Unofficial
 This is a unofficial Repository, which was created because there is no official 1.14.x Repo.
+This Repo will be deleted, if there is a offical Repo.
 
 
 ### Created by everyone for everyone!
