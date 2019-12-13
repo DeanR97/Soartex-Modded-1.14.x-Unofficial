@@ -1,0 +1,6 @@
+﻿{
+   "parent": "bluepower:block/basaltbrick_cracked",
+   "textures": {
+      "all": "soartex_base:blocks/stone/basalt/bricks_cracked"
+   }
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "BluePower",
+  "mod_name": "Blue Power",
+  "mod_dir": "/Blue_Power/",
+  "mod_version": "0.3.161",
+  "mc_version": "1.14.4",
+  "mod_authors": ["Quetzi", "Zness", "minemaarten2", "amadornes", "K4Uni", "MoreThanHidden"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/blue-power",
+  "description": "Blue Power is a tech mod that adds a variety of ways to manipulate and transport blocks and redstone signals to the game."
+}

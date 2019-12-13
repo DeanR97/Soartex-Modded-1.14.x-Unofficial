@@ -1,0 +1,6 @@
+﻿{
+   "parent": "bluepower:block/basalt_paver",
+   "textures": {
+      "all": "soartex_base:blocks/stone/basalt/smooth"
+   }
+}

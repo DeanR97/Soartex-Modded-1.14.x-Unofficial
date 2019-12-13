@@ -1,0 +1,6 @@
+﻿{
+   "parent": "bluepower:block/basalt_cobble",
+   "textures": {
+      "all": "soartex_base:blocks/stone/basalt/cobble"
+   }
+}
