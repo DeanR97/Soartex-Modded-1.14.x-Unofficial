@@ -1,0 +1,10 @@
+{
+  "mod_id": "MysticalWorld",
+  "mod_name": "Mystical World",
+  "mod_dir": "/Mystical_World/",
+  "mod_version": "1.6.12",
+  "mc_version": "1.14.4",
+  "mod_authors": ["EpicSquid319", "Noobanidus", "Martacus", "Davoleo_K", "elucent_"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/mystical-world",
+  "description": "Mystical World is a content mod that provides the backbone for projects like Roots, with more to come! It adds many creatures (picture above), as well as metals & gems (copper, silver & amethyst, currently), and other mechanics that try to stay as close to vanilla as possible while still providing interesting and unique alternatives.."
+}
