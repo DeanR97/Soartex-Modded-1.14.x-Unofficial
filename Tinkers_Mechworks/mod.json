@@ -1,0 +1,10 @@
+{
+  "mod_id": "TinkersMechworks",
+  "mod_name": "Tinkers'Mechworks",
+  "mod_dir": "/Tinkers_Mechworks/",
+  "mod_version": "2.0.1",
+  "mc_version": "1.14.4",
+  "mod_authors": ["mDiyo", "fuj1n", "Glazzmaker", "bunusboni"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks",
+  "description": "Tinkers' Mechworks is a mod that adds various redstone machines originally created by mDiyo."
+}
