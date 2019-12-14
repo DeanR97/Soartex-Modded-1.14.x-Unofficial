@@ -1,5 +1,5 @@
 ﻿{
-   "parent": "bluepower:block/basalt_brick_small",
+   "parent": "block/cube_all",
    "textures": {
       "all": "soartex_base:blocks/stone/basalt/bricks"
    }
