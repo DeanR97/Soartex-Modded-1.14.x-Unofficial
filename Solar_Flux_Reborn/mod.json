@@ -1,0 +1,10 @@
+{
+  "mod_id": "SolarFluxReborn",
+  "mod_name": "Solar Flux Reborn",
+  "mod_dir": "/Solar_Flux_Reborn/",
+  "mod_version": "14.1.2",
+  "mc_version": "1.14.4",
+  "mod_authors": ["Zeitheron", "yulife_curse", "DragonForgeMC", "ircmaan"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn",
+  "description": "Solar Flux Reborn adds solar panels that generate FE or RF."
+}
